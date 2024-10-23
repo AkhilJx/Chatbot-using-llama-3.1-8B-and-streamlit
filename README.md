@@ -9,4 +9,6 @@ If we have huge storage and if we need higher accuracy, then we can go ahead wit
 
 ![image](https://github.com/user-attachments/assets/359c10e6-2d8a-4d0e-8051-b1ef7c7ce32e)
 
+The size and parameters of various llama 3.1 models are as follows: 
+
 ![image](https://github.com/user-attachments/assets/d18fb95d-f8f5-42d6-b18e-a388f44191c4)
