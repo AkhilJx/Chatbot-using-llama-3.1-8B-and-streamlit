@@ -25,9 +25,12 @@ For Loading the llama3.1, I have used ollama under langchain.
 %pip install -U langchain-ollama
 
 2. For Linux/ubuntu users try the following code to install Ollama
+   
 curl -fsSL https://ollama.com/install.sh | sh
 
-3. Select the model that we want to download. 
+
+3. Select the model that we want to download.
+   
 ![image](https://github.com/user-attachments/assets/7f15974d-cf93-490e-a8b1-5d0f457e4397)
 
 Refer to the GitHub repo: https://github.com/ollama/ollama and the site: https://ollama.com/library for more details
