@@ -32,8 +32,10 @@ Refer to the langchain official documentation from https://python.langchain.com/
    
    curl -fsSL https://ollama.com/install.sh | sh
 
+   For other OS, download from: https://ollama.com/download
 
-3. Select the model that we want to download and run the command: ollama pull name-of-model. 
+
+4. Select the model that we want to download and run the command: ollama pull name-of-model. 
    
 ![image](https://github.com/user-attachments/assets/7f15974d-cf93-490e-a8b1-5d0f457e4397)
 
