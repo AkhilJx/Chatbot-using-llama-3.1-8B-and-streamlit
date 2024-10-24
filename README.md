@@ -15,5 +15,7 @@ The size and parameters of various llama 3.1 models are as follows:
 
 ![image](https://github.com/user-attachments/assets/cd2e594a-0cb4-400c-aa9a-d985b57fa576)
 
+For the webApp, i have tried the streamlit app. 
 
+For Loading the llama3.1
 
