@@ -61,9 +61,13 @@ Finally, run the following code from the terminal: streamlit run llama_3.1_8B.py
 
 A screenshot of the output is as shown below:
 
-Output1:
+# Output1:
+
 ![Screenshot from 2024-10-24 14-37-53](https://github.com/user-attachments/assets/6db4cbe7-840e-428c-9212-05da144883ec)
 
-Output2:
+
+# Output2:
+
+![image](https://github.com/user-attachments/assets/2fbef1e0-77ed-49df-9f37-ab3823d1a5a7)
 
 
