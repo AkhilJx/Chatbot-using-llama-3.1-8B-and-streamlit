@@ -50,7 +50,17 @@ On Linux (or WSL), the models will be stored at /usr/share/ollama/.ollama/models
 6. Run the command # ollama help in the terminal to see available commands too.
 
 
-A screenshot of the execution of the above steps is as below:
+A screenshot of the execution of the above steps is as follows:
 
 ![Screenshot from 2024-10-23 11-26-49](https://github.com/user-attachments/assets/c3eb01d1-fec5-4f15-974c-729d2d41b0bc)
+
+
+Once this is done create a virtual environment and install the required libraries from the requirements.txt file
+
+Finally, run the following code from the terminal: streamlit run llama_3.1_8B.py
+
+A screenshot of the output is as shown below:
+
+![Screenshot from 2024-10-24 14-37-53](https://github.com/user-attachments/assets/6db4cbe7-840e-428c-9212-05da144883ec)
+
 
