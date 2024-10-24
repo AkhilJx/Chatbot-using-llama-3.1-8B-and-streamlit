@@ -33,9 +33,12 @@ refer to the langchain official documentation from https://python.langchain.com/
    curl -fsSL https://ollama.com/install.sh | sh
 
 
-3. Select the model that we want to download and run the command: ollama pull <name-of-model>. 
+3. Select the model that we want to download and run the command: ollama pull name-of-model. 
    
 ![image](https://github.com/user-attachments/assets/7f15974d-cf93-490e-a8b1-5d0f457e4397)
 
 Refer to the GitHub repo: https://github.com/ollama/ollama and the site: https://ollama.com/library for more details
 
+On Mac, the models will be downloaded to ~/.ollama/models
+
+On Linux (or WSL), the models will be stored at /usr/share/ollama/.ollama/models
