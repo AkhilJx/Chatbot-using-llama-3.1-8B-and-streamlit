@@ -15,7 +15,17 @@ The size and parameters of various llama 3.1 models are as follows:
 
 ![image](https://github.com/user-attachments/assets/cd2e594a-0cb4-400c-aa9a-d985b57fa576)
 
-For the webApp, i have tried the streamlit app. 
+For the webApp, I have tried the Streamlit app. 
 
-For Loading the llama3.1
+For Loading the llama3.1, I have used ollama under langchain.
+
+INSTALLATION SETUP OF OLLAMALLM:
+
+1. # install package
+%pip install -U langchain-ollama
+
+2.For Linux/ubuntu users try the following code to install Ollama
+curl -fsSL https://ollama.com/install.sh | sh
+
+3.select the model that we want to download from the github repo: https://github.com/ollama/ollama
 
