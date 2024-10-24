@@ -21,7 +21,7 @@ For Loading the llama3.1, I have used ollama under langchain.
 
 # INSTALLATION SETUP OF OLLAMALLM:
 
-refer to the langchain official documentation from https://python.langchain.com/docs/integrations/llms/ollama/
+Refer to the langchain official documentation from https://python.langchain.com/docs/integrations/llms/ollama/
 
 1. Install package
    
