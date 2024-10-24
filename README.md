@@ -48,3 +48,9 @@ On Linux (or WSL), the models will be stored at /usr/share/ollama/.ollama/models
 5. To chat directly with a model from the command line, use the command # ollama run <name-of-model>
 
 6. Run the command # ollama help in the terminal to see available commands too.
+
+
+A screenshot of the execution of the above steps is as below:
+
+![Screenshot from 2024-10-23 11-26-49](https://github.com/user-attachments/assets/c3eb01d1-fec5-4f15-974c-729d2d41b0bc)
+
