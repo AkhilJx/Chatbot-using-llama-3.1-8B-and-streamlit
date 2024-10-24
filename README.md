@@ -42,3 +42,9 @@ Refer to the GitHub repo: https://github.com/ollama/ollama and the site: https:/
 On Mac, the models will be downloaded to ~/.ollama/models
 
 On Linux (or WSL), the models will be stored at /usr/share/ollama/.ollama/models
+
+4. To view all pulled models, use the command # ollama list
+  
+5. To chat directly with a model from the command line, use the command # ollama run <name-of-model>
+
+6. Run the command # ollama help in the terminal to see available commands too.
